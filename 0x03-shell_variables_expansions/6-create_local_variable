@@ -1,0 +1,6 @@
+#!/bin/bash
+function print(){
+local BEST="School"
+echo $BEST
+}
+print()
